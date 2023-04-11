@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
+- Live Site URL: [Add live site URL here](https://iceberg61.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -74,7 +74,7 @@ While i was suprised because i was thinking off achiving this layout with grid l
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - this website made me know the power of flex-wrap
+- [Example resource 1](https://codesandbox.io/s/5g904) - this website made me know the power of flex-wrap
 
 
 ## Author
